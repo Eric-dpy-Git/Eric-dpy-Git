@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eric-dpy-Git
+- 👋 Hi, I’m Eric Duprey
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Html, CSS, SCSS, Javascript, Node.js, Vue.js
 - 💞️ I’m looking to collaborate on a development team
