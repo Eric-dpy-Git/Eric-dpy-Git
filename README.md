@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Html, CSS, SCSS, Javascript, Node.js, Vue.js
 - 💞️ I’m looking to collaborate on a development team
-- 📫 It is easy to reach me on contact@eric-duprey.com 
+- 📫 It is easy to reach me on contact@eric-duprey.fr 
 
 <!---
 Eric-dpy-Git/Eric-dpy-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
