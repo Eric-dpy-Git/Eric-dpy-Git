@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eric Duprey
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Html, CSS, SCSS, Javascript, Node.js, Vue.js
-- 💞️ I’m looking to collaborate on a development team
+- 👀 I’m interested in web development, system, network and sécurity
+- 🌱 I’m currently learning things to be best myself
+- 💞️ I’m open with new challenge
 - 📫 It is easy to reach me on contact@eric-duprey.fr 
 
 <!---
